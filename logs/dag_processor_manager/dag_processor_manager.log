@@ -1,0 +1,70 @@
+[2024-07-18T14:27:32.496+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2024-07-18T14:27:32.497+0000] {manager.py:471} INFO - Process each file at most once every 10 seconds
+[2024-07-18T14:27:32.497+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-07-18T14:27:32.498+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T14:27:32.499+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-18T14:32:32.753+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T14:32:32.767+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-18T14:36:06.422+0000] {manager.py:470} INFO - Processing files using up to 2 processes at a time 
+[2024-07-18T14:36:06.426+0000] {manager.py:471} INFO - Process each file at most once every 10 seconds
+[2024-07-18T14:36:06.426+0000] {manager.py:472} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2024-07-18T14:36:06.426+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T14:36:06.427+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-18T14:41:06.904+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T14:41:06.910+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-18T15:15:06.219+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T15:15:06.225+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-18T16:42:39.176+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T16:42:39.181+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-18T18:04:04.137+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T18:04:04.139+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-18T19:25:23.900+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T19:25:23.907+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-18T20:26:19.340+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T20:26:19.371+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-18T21:49:29.405+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T21:49:29.410+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-18T22:51:24.164+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T22:51:24.166+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-18T23:25:20.523+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-18T23:25:20.538+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T00:01:36.769+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T00:01:36.776+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T00:32:47.127+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T00:32:47.136+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T01:07:49.356+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T01:07:49.359+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T01:17:18.484+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T01:17:18.490+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T01:42:22.257+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T01:42:22.260+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T02:33:12.549+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T02:33:12.552+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T03:49:30.260+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T03:49:30.263+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T04:35:23.873+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T04:35:24.359+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T05:36:23.224+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T05:36:23.229+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T06:37:25.141+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T06:37:25.155+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T06:42:25.744+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T06:42:25.757+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T06:47:26.593+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T06:47:26.604+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T06:52:27.230+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T06:52:27.237+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T06:57:27.595+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T06:57:27.603+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T07:02:28.067+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T07:02:28.091+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T07:07:28.704+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T07:07:28.710+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T07:12:29.215+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T07:12:29.223+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T07:17:29.882+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T07:17:29.890+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T07:22:30.823+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T07:22:30.832+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-07-19T07:27:31.772+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-07-19T07:27:31.782+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
